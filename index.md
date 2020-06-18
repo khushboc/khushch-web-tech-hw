@@ -2,36 +2,44 @@
 
 You can use the [editor on GitHub](https://github.com/khushboc/khushch-web-tech-hw/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 5px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+}
+</style>
+</head>
+<body>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<table style="width:60%" align = "center">
+  <tr>
+    <td>Link to Homework #1 </td>
+    <td><a href= "http://khushboc.freevar.com/csci571.html" target="_blank">Link to Homework #2</td>
+  </tr>
+  <tr>
+    <td><a href= "http://khushboc.freevar.com/Homework3/homework3.html" target="_blank">Link to Homework #3</a></td>
+    <td><a href= "csci571.html">Link to Homework #4</a></td>
+  </tr>
+  <tr>
+    <td>Link to Homework #5</td>
+    <td><a href= "https://khushch-es.wl.r.appspot.com/" target="_blank">Link to Homework #6</a><br><a href= "https://khushch-es.wl.r.appspot.com/ebaySearch?keywords=mask&minprice=30&maxprice=50&new=true&expeditedship=true&sortby=Price%20%2B%20Shipping%3A%20highest%20first" target="_blank">Link to Homework #6 - Backend</a></td>
+  </tr>
+  <tr>
+    <td>Link to Homework #7</td>
+    <td><a href= "https://khushch-ebaysearch-hw8fe.wl.r.appspot.com/" target="_blank">Link to Homework #8</a><br /><a href="https://khushch-ebaysearch-hw8be.wl.r.appspot.com/?keywords=iphone&minprice=500&maxprice=1000&sortby=BestMatch&new=true&used=true&verygood=true&good=true&acceptable=true&returns=true&freeship=true&expeditedship=true&pageNumber=1" target="_blank"> Link to Homework #8 - Backend</a></td>
+  </tr>
+  <tr>
+    <td>Link to Homework #9</td>
+    <td>Link to Homework #10</td>
+  </tr>
+  </table>
+</body>
+</html>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/khushboc/khushch-web-tech-hw/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
