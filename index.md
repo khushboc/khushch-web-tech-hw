@@ -1,7 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/khushboc/khushch-web-tech-hw/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
+## Homework table of links for CSCI 571 - Summer
 
 <!DOCTYPE html>
 <html>
