@@ -1,20 +1,5 @@
 ## Homework table of links for CSCI 571 - Summer
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-table, th, td {
-  border: 5px solid black;
-  border-collapse: collapse;
-}
-th, td {
-  padding: 5px;
-}
-</style>
-</head>
-<body>
-
 <table style="width:60%" align = "center">
   <tr>
     <td>Link to Homework #1 </td>
