@@ -1,4 +1,4 @@
-## Homework table of links for CSCI 571 - Summer
+## Homework table of links for CSCI 571 - Summer 2020
 
 <table style="width:60%" align = "center">
   <tr>
