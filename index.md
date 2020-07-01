@@ -18,7 +18,7 @@
     <td><a href= "https://khushch-ebaysearch-hw8fe.wl.r.appspot.com/" target="_blank">Link to Homework #8</a><br /><a href="https://khushch-ebaysearch-hw8be.wl.r.appspot.com/?keywords=iphone&minprice=500&maxprice=1000&sortby=BestMatch&new=true&used=true&verygood=true&good=true&acceptable=true&returns=true&freeship=true&expeditedship=true&pageNumber=1" target="_blank"> Link to Homework #8 - Backend</a></td>
   </tr>
   <tr>
-    <td>Link to Homework #9</td>
+    <td><a href= "https://khushch-ebaysearch-hw8be.wl.r.appspot.com/ebaySearch?keywords=iphone&minprice=500&maxprice=1000&sortby=BestMatch&new=true&used=true&unspecified=true" target="_blank">Link to Homework #9 - Search API</a><br /><a href="https://khushch-ebaysearch-hw8be.wl.r.appspot.com/itemDetails?ItemID=202863101346" target="_blank"> Link to Homework #9 - Product Page</a></td>
     <td>Link to Homework #10</td>
   </tr>
   </table>
